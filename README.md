@@ -4,7 +4,7 @@ Repositório onde registro minha evolução em Python, rumo ao desenvolvimento b
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e sigo um plano de estudos com um objetivo claro: chegar ao nível de desenvolvedor backend júnior. Cada fase termina com um projeto publicado aqui no GitHub.
 
-# Exercícios
+## Exercícios
 
 | Arquivo | O que faz | Conceitos praticados |
 | --- | --- | --- |
@@ -13,7 +13,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e sigo um plano de e
 | `exercicio_03.py` | Calcula a média de 3 notas e mostra a situação do aluno | `float`, `if` / `elif` / `else` |
 | `exercicio_04.py` | Calculadora com as 4 operações | Condicionais aninhadas, tratamento de divisão por zero e de operação inválida |
 
-# Como executar
+## Como executar
 
 Com o Python 3 instalado, rode qualquer arquivo no terminal:
 
@@ -21,7 +21,7 @@ Com o Python 3 instalado, rode qualquer arquivo no terminal:
 python exercicio_04.py
 ```
 
-# Roadmap
+## Roadmap
 
 - [ ] **Fase 1:** Lógica, fundamentos de Python e Git *(em andamento)*
 - [ ] **Fase 2:** Orientação a objetos, algoritmos e testes

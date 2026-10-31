@@ -6,11 +6,11 @@ num2 = float(input("SEGUNDO NUMERO: "))
 if operacao == "+":
     print(f"RESULTADO: {num1 + num2}")
 
-#operador de menos
+#operador de subtração
 elif operacao == "-":
     print(f"RESULTADO: {num1 - num2}")
 
-#operador se subtração 
+#operador de multiplicação 
 elif operacao == "*":
     print(f"RESULTADO: {num1 * num2}")
 elif operacao == "x":

@@ -30,6 +30,6 @@ python exercicio_04.py
 - [ ] **Fase 5:** Docker, CI/CD e deploy em nuvem
 - [ ] **Fase 6:** Arquitetura, cache, filas e projeto final
 
-## 📫 Contato
+## Contato
 
 [LinkedIn](https://www.linkedin.com/in/kayke-augusto-18z21/)

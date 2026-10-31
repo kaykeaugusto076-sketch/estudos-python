@@ -8,8 +8,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e sigo um plano de e
 
 | Arquivo | O que faz | Conceitos praticados |
 | --- | --- | --- |
-| `aula01.py` | Calcula a idade da pessoa daqui a 30 anos | `input`, `int`, f-string |
-| `aula02.py` | Calcula a idade em 2030 a partir do ano de nascimento | Operações e formatação de saída |
+| `exercicio_1.py` | Calcula a idade da pessoa daqui a 30 anos | `input`, `int`, f-string |
+| `exercicio_02.py` | Calcula a idade em 2030 a partir do ano de nascimento | Operações e formatação de saída |
 | `exercicio_03.py` | Calcula a média de 3 notas e mostra a situação do aluno | `float`, `if` / `elif` / `else` |
 | `exercicio_04.py` | Calculadora com as 4 operações | Condicionais aninhadas, tratamento de divisão por zero e de operação inválida |
 
